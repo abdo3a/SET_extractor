@@ -14,3 +14,9 @@ There are only two external dependencies that should be installed before using P
   http://hmmer.org 
 • fasta_formatter.
    apt-get install fastx-toolkit
+   
+   
+   #OUTPUTS
+   - a bed file with the SET domain's coordinates.
+   
+   - SET sequence file.
