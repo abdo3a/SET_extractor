@@ -12,6 +12,7 @@ There are only two external dependencies that should be installed before using P
 
 • HMMER: biosequence analysis using profile hidden Markov model.
   http://hmmer.org 
+
 • fasta_formatter.
    apt-get install fastx-toolkit
    
