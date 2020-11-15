@@ -8,7 +8,7 @@ SET-extractor is a python program to identify and extract the SET domain sequenc
 
 
 
-There are only two external dependencies that should be installed before using PcGs-finder:
+There are only two external dependencies that should be installed before using SET-extractor:
 
 • HMMER: biosequence analysis using profile hidden Markov model.
   http://hmmer.org 
