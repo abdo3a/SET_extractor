@@ -2,7 +2,7 @@
 
 SET-extractor is a python program to identify and extract the SET domain sequence within protein sequences.
 
-# USAGE
+## USAGE
 
 ./SET_extractor.py infile(.faa) output
 
@@ -16,7 +16,7 @@ There are only two external dependencies that should be installed before using S
 • fasta_formatter.
    apt-get install fastx-toolkit
  
-# OUTPUTS
+## OUTPUTS
    - a bed file with the SET domain's coordinates.
    
    - SET sequence file.
